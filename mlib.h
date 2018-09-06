@@ -10,7 +10,7 @@
 
 /*
  * STATE HANDLING
- * -> An enum for different errors, states and returns
+ * -> An enum for different errors, state and returns
  */
 enum _ML_STATES { 	
 					LL_OUT_OF_BOUNDS 	= 8000,
